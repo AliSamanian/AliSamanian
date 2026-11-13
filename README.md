@@ -25,8 +25,6 @@
 
 I am a Computer Engineering graduate from the **University of Tehran**, with a background in software development and research experience in areas related to **Machine Learning**, **Computer Vision**, and **AI-assisted learning**. I enjoy exploring technical problems, building practical systems, and applying computational methods to problems across different domains.
 
-I am interested in research-oriented opportunities and graduate study.
-
 ## Research interests
 
 - Machine Learning and Artificial Intelligence

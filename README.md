@@ -92,14 +92,6 @@ I am interested in research-oriented opportunities and graduate study.
 **B.Sc. in Computer Engineering — University of Tehran**  
 2021–2026 · Tehran, Iran
 
-## Teaching experience
-
-Teaching Assistant at the University of Tehran:
-
-- Computer Vision
-- Electric Circuits
-- Introduction to Computing Systems and Programming
-
 ## Languages
 
 - **Persian:** Native

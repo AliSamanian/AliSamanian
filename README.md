@@ -1,17 +1,17 @@
 <!-- Header banner -->
 <div align="center">
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0d1117,100:2f81f7&height=220&section=header&text=Ali%20Samanian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20in%20Computer%20Engineering&descSize=20&descAlignY=60" alt="Ali Samanian banner"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:0b0f19,50:2f81f7,100:bb9af7&height=220&section=header&text=Ali%20Samanian&fontSize=52&fontColor=ffffff&fontAlignY=38&desc=B.Sc.%20in%20Computer%20Engineering&descSize=20&descAlignY=60" alt="Ali Samanian banner"/>
 
 <!-- Animated typing line -->
 <a href="https://github.com/AliSamanian">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Artificial+Intelligence;Computer+Vision+%26+Image+Processing;LLMs+in+E-Learning;Building+practical+intelligent+systems" alt="Typing animation"/>
+  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=7AA2F7&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Artificial+Intelligence;Computer+Vision+%26+Image+Processing;LLMs+in+E-Learning;Building+practical+intelligent+systems" alt="Typing animation"/>
 </a>
 
 <br/>
 
 <!-- Contact: logos only -->
-<a href="https://alisamanian.github.io"><img src="assets/globe.svg" width="48" height="48" alt="WebSite"/></a>
+<a href="https://alisamanian.github.io"><img src="assets/globe.svg" width="48" height="48" alt="Website"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:alisamanian75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>
 &nbsp;&nbsp;&nbsp;
@@ -32,6 +32,14 @@
 ## 👋 About
 
 I am a Computer Engineering graduate from the **University of Tehran**, with a background in software development and research experience in **Machine Learning**, **Computer Vision**, and **AI-assisted learning**. I enjoy exploring technical problems, building practical systems, and applying computational methods across different domains.
+
+<br/>
+
+## 🌐 Portfolio
+
+<div align="center">
+  <a href="https://alisamanian.github.io"><img src="assets/website-card.svg" width="100%" alt="Visit my portfolio website: alisamanian.github.io"/></a>
+</div>
 
 <br/>
 
@@ -100,6 +108,6 @@ I am a Computer Engineering graduate from the **University of Tehran**, with a b
 
 *Always learning, building, and exploring.*
 
-<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:2f81f7,100:0d1117&height=120&section=footer" alt="Footer"/>
+<img width="100%" src="https://capsule-render.vercel.app/api?type=waving&color=0:bb9af7,50:2f81f7,100:0b0f19&height=120&section=footer" alt="Footer"/>
 
 </div>

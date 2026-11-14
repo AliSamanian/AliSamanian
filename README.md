@@ -8,26 +8,30 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Artificial+Intelligence;Computer+Vision+%26+Image+Processing;LLMs+in+E-Learning;Building+practical+intelligent+systems" alt="Typing animation"/>
 </a>
 
-<br/><br/>
+<br/>
 
 <!-- Contact: logos only -->
+<a href="https://alisamanian.github.io">
+  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg"
+       width="48" height="48" alt="Website"/>
+</a>
+<a href="https://alisamanian.github.io"><img src="http://www.w3.org/2000/svg" class="bi bi-globe" width="48" height="48" alt="WebSite"/></a>
+&nbsp;&nbsp;&nbsp;
 <a href="mailto:alisamanian75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://www.linkedin.com/in/alisamanian/"><img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="https://github.com/AliSamanian"><img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/></a>
 
-<br/><br/>
+<!-- <br/> -->
 
-<sub>📍 Tehran, Iran &nbsp;·&nbsp; <a href="https://ut.ac.ir/en">University of Tehran</a></sub>
+<!-- <sub>📍 Tehran, Iran &nbsp;·&nbsp; <a href="https://ut.ac.ir/en">University of Tehran</a></sub> -->
 
 <br/>
 
-<img src="https://komarev.com/ghpvc/?username=AliSamanian&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views"/>
+<!-- <img src="https://komarev.com/ghpvc/?username=AliSamanian&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views"/> -->
 
 </div>
-
----
 
 ## 👋 About
 

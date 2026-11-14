@@ -8,15 +8,32 @@
   <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=700&lines=Machine+Learning+%26+Artificial+Intelligence;Computer+Vision+%26+Image+Processing;LLMs+in+E-Learning;Building+practical+intelligent+systems" alt="Typing animation"/>
 </a>
 
-<br/>
-
-<!-- Contact badges -->
-<a href="mailto:alisamanian75@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white" alt="Email"/></a>
-<a href="https://www.linkedin.com/in/alisamanian/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn"/></a>
-<a href="https://github.com/AliSamanian"><img src="https://img.shields.io/badge/GitHub-181717?style=for-the-badge&logo=github&logoColor=white" alt="GitHub"/></a>
-<a href="https://ut.ac.ir/en"><img src="https://img.shields.io/badge/University%20of%20Tehran-1F6FEB?style=for-the-badge&logo=googlescholar&logoColor=white" alt="University of Tehran"/></a>
-
 <br/><br/>
+
+<!-- Contact: original logos -->
+<table>
+  <tr>
+    <td align="center" width="110">
+      <a href="mailto:alisamanian75@gmail.com">
+        <img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/><br/><sub><b>Email</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://www.linkedin.com/in/alisamanian/">
+        <img src="https://skillicons.dev/icons?i=linkedin" width="48" height="48" alt="LinkedIn"/><br/><sub><b>LinkedIn</b></sub>
+      </a>
+    </td>
+    <td align="center" width="110">
+      <a href="https://github.com/AliSamanian">
+        <img src="https://skillicons.dev/icons?i=github" width="48" height="48" alt="GitHub"/><br/><sub><b>GitHub</b></sub>
+      </a>
+    </td>
+  </tr>
+</table>
+
+<sub>📍 Tehran, Iran &nbsp;·&nbsp; <a href="https://ut.ac.ir/en">University of Tehran</a></sub>
+
+<br/>
 
 <img src="https://komarev.com/ghpvc/?username=AliSamanian&label=Profile%20views&color=2f81f7&style=flat-square" alt="Profile views"/>
 
@@ -92,13 +109,6 @@ I am a Computer Engineering graduate from the **University of Tehran**, with a b
   </tr>
 </table>
 
-<!--
-Optional: pin real repo cards (replace REPO_NAME), one per project:
-<a href="https://github.com/AliSamanian/REPO_NAME">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=AliSamanian&repo=REPO_NAME&theme=tokyonight&hide_border=true"/>
-</a>
--->
-
 <br/>
 
 ## 🎓 Research experience
@@ -111,38 +121,57 @@ Optional: pin real repo cards (replace REPO_NAME), one per project:
 
 ## 🛠️ Technical toolkit
 
-**Languages**
+### Programming languages
 
-<p>
-  <img src="https://skillicons.dev/icons?i=py,c,cpp,java,go,matlab" alt="Languages"/>
-  <img src="https://img.shields.io/badge/Verilog%20HDL-555555?style=for-the-badge" alt="Verilog HDL" height="48"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=py" width="48" height="48" alt="Python"/><br/><sub><b>Python</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=c" width="48" height="48" alt="C"/><br/><sub><b>C</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=cpp" width="48" height="48" alt="C++"/><br/><sub><b>C++</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=java" width="48" height="48" alt="Java"/><br/><sub><b>Java</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=go" width="48" height="48" alt="Go"/><br/><sub><b>Go</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=matlab" width="48" height="48" alt="MATLAB"/><br/><sub><b>MATLAB</b></sub></td>
+    <td align="center" width="110"><img src="assets/verilog.svg" width="48" height="48" alt="Verilog HDL"/><br/><sub><b>Verilog HDL</b></sub></td>
+  </tr>
+</table>
 
-**Machine learning & computer vision**
+### Machine learning & computer vision
 
-<p>
-  <img src="https://skillicons.dev/icons?i=pytorch,tensorflow,sklearn,opencv,numpy,pandas" alt="ML tools"/>
-  <img src="https://img.shields.io/badge/Keras-D00000?style=for-the-badge&logo=keras&logoColor=white" alt="Keras" height="48"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=pytorch" width="48" height="48" alt="PyTorch"/><br/><sub><b>PyTorch</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=tensorflow" width="48" height="48" alt="TensorFlow"/><br/><sub><b>TensorFlow</b></sub></td>
+    <td align="center" width="110"><img src="assets/keras.svg" width="48" height="48" alt="Keras"/><br/><sub><b>Keras</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=sklearn" width="48" height="48" alt="scikit-learn"/><br/><sub><b>scikit-learn</b></sub></td>
+    <td align="center" width="110"><img src="assets/numpy.svg" width="48" height="48" alt="NumPy"/><br/><sub><b>NumPy</b></sub></td>
+    <td align="center" width="110"><img src="assets/pandas.svg" width="48" height="48" alt="Pandas"/><br/><sub><b>Pandas</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=opencv" width="48" height="48" alt="OpenCV"/><br/><sub><b>OpenCV</b></sub></td>
+  </tr>
+</table>
 
-**Tools & software engineering**
+### Tools & software engineering
 
-<p>
-  <img src="https://skillicons.dev/icons?i=git,spring,latex,arduino,linux" alt="Tools"/>
-</p>
+<table>
+  <tr>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=git" width="48" height="48" alt="Git"/><br/><sub><b>Git</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=spring" width="48" height="48" alt="Spring Boot"/><br/><sub><b>Spring Boot</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=latex" width="48" height="48" alt="LaTeX"/><br/><sub><b>LaTeX</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=arduino" width="48" height="48" alt="Arduino"/><br/><sub><b>Arduino</b></sub></td>
+    <td align="center" width="110"><img src="https://skillicons.dev/icons?i=linux" width="48" height="48" alt="Linux"/><br/><sub><b>Linux</b></sub></td>
+  </tr>
+</table>
 
 <br/>
 
-## 📊 GitHub stats
+## 📊 GitHub activity
 
 <div align="center">
 
-<img height="170" src="https://github-readme-stats.vercel.app/api?username=AliSamanian&show_icons=true&theme=tokyonight&hide_border=true" alt="GitHub stats"/>
-<img height="170" src="https://github-readme-stats.vercel.app/api/top-langs/?username=AliSamanian&layout=compact&theme=tokyonight&hide_border=true" alt="Top languages"/>
+<a href="https://github.com/AliSamanian?tab=followers"><img src="https://img.shields.io/github/followers/AliSamanian?style=for-the-badge&logo=github&label=Followers&color=2f81f7&labelColor=161b22" alt="Followers"/></a>
 
-<br/>
+<br/><br/>
 
-<img src="https://streak-stats.demolab.com?user=AliSamanian&theme=tokyonight&hide_border=true" alt="Streak stats"/>
+<img src="https://streak-stats.demolab.com?user=AliSamanian&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>
 

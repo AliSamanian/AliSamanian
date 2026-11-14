@@ -79,10 +79,10 @@ I am a Computer Engineering graduate from the **University of Tehran**, with a b
 
 <div align="center">
 
-<a href="https://github.com/AliSamanian?tab=followers"><img src="https://img.shields.io/github/followers/AliSamanian?style=for-the-badge&logo=github&label=Followers&color=2f81f7&labelColor=161b22" alt="Followers"/></a>
+<!-- <a href="https://github.com/AliSamanian?tab=followers"><img src="https://img.shields.io/github/followers/AliSamanian?style=for-the-badge&logo=github&label=Followers&color=2f81f7&labelColor=161b22" alt="Followers"/></a> -->
 
-<br/><br/>
-
+<!-- <br/><br/> -->
+<br/>
 <img src="https://streak-stats.demolab.com?user=AliSamanian&theme=tokyonight&hide_border=true" alt="GitHub streak"/>
 
 </div>

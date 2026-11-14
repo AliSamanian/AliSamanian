@@ -11,11 +11,7 @@
 <br/>
 
 <!-- Contact: logos only -->
-<a href="https://alisamanian.github.io">
-  <img src="https://cdn.jsdelivr.net/npm/bootstrap-icons@1.11.3/icons/globe.svg"
-       width="48" height="48" alt="Website"/>
-</a>
-<a href="https://alisamanian.github.io"><img src="http://www.w3.org/2000/svg" class="bi bi-globe" width="48" height="48" alt="WebSite"/></a>
+<a href="https://alisamanian.github.io"><img src="assets/globe.svg" width="48" height="48" alt="WebSite"/></a>
 &nbsp;&nbsp;&nbsp;
 <a href="mailto:alisamanian75@gmail.com"><img src="https://skillicons.dev/icons?i=gmail" width="48" height="48" alt="Email"/></a>
 &nbsp;&nbsp;&nbsp;
